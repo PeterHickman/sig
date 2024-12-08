@@ -8,4 +8,4 @@ So I wrote this to get the first 16 bytes of each file so I could compare the si
 
 Never found the cause
 
-Maybe someday this will me useful again or perhaps it will be a foundation to build something else
+Maybe someday this will be useful again or perhaps it will be a foundation to build something else
